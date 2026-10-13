@@ -9,3 +9,4 @@ description = "Track changes in JSON data from the command line"
 # drop an unused branch
 # guard against empty input
 # clarify the control flow
+# handle the edge case from the last release
